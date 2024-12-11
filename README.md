@@ -1,6 +1,5 @@
 # arthur_simple_message_appender
 
-```shell
-chmod a+x ./simple_message_appender.py
-sudo ln -f ./simple_message_appender.py /bin/msg
-```
+You should install *request* lib to use.
+
+If you want to execute the file in shell, you must build it through *pyinstaller* from the '.spec' file first.

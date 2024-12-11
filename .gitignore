@@ -1,3 +1,5 @@
 .venv
 secret.py
 .idea
+build
+dist
