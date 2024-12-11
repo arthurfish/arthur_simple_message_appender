@@ -1,4 +1,4 @@
-import sys
+#!/bin/python3
 from threading import Thread
 
 from append_to_github import append_to_github
